@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1266cba8-101e-4276-afe2-ee637b0df60f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Django.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewsPortal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D19/D19/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D19/fanserv/filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D19/fanserv/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D19/fanserv/signals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D19/fanserv/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D19/post_images/25._Ромашки.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D19/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D19/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D19/templates/email/newsletter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D19/templates/flatpages/default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D19/templates/post_confirm_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D19/templates/post_created_email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D19/templates/post_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D19/templates/post_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D19/templates/posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D19/templates/private_replies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D19/templates/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D19/templates/reply_confirm_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D19/templates/reply_create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D19/templates/send_newsletter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project-dir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoo_bot/M_Bot/BOT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoo_bot/M_Bot/QUIZ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoo_bot/M_Bot/TEXT.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2l8bqLWRIdncGh2HkN6NQwvIQdH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/bogac/OneDrive/Рабочий стол/курсы python/SkillFactory/Django/project D19/D19",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bogac\OneDrive\Рабочий стол\курсы python\SkillFactory\Django\project D19\D19" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1266cba8-101e-4276-afe2-ee637b0df60f" name="Changes" comment="" />
+      <created>1724564839728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724564839728</updated>
+    </task>
+    <servers />
+  </component>
+</project>
